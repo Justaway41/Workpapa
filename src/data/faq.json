@@ -1,0 +1,62 @@
+[
+    {
+        "id": "id1",
+        "title": "How long does the process take?",
+        "description": "Since there are ###PENDING_RESUME### CV/Resumes ahead of you. The process should take ###DAYS_TO_COMPLETE### days till you get your first draft. After that, in 1-2 days if you have any changes you should get your revised CV/Resume completed."
+    },
+    {
+        "id": "id2",
+        "title": "What happens after I pay?",
+        "description" :"After you pay, you login, choose your template, submit your questionairre online and upload your document. The write can communicate with you on our status panel."
+    },
+    {
+        "id": "id3",
+        "title": "Who will be writing my resume?",
+        "description": "A resume writer specialised in your local market and field will be assigned to your case. Each writer has a deep understanding of your local requirements industry and will be able to identify key strengths to highlight in your resume."
+    },
+    {
+        "id": "id4",
+        "title": "How many drafts can i have?",
+        "description":"We allow unlimited revisions for up to 2-3 working days. In this period, you can message your resume consultant as many times as you deem necessary. The unlimited resume revisions period starts on the day you receive your first draft from workpapa.com"
+    },
+    {
+        "id": "id6",
+        "title": "What does the CV Writing package include?",
+        "description":"The package includes rewriting your resume/CV, including a new summary, quantifying your experiences, telling your story, formatting your document with a new template and reranking the most important statements. Showing your true value to employers."
+    },
+    {
+        "id": "id7",
+        "title": "Do I need a cover letter?",
+        "description":"Some job advertisements do require the candidate to submit a cover letter. For job ads that don’t state this, you can still submit an optional cover letter. It will be useful in giving your profile more of a “voice” to stand out from the crowd. Employers think you put in more effort to your application when you have one."
+    },
+    {
+        "id": "id8",
+        "title": "In what format will my resume be in?",
+        "description":"Final product will be delivered in Microsoft Word format or PDF if required. You will be able to edit it yourself for future use."
+    },
+    {
+        "id": "id9",
+        "title": "Can you help me with a career switch?",
+        "description":"Absolutely. Many of our clients wish to switch careers. During the interview, we’ll outline a strategy to highlight the key skills in order to help you make the transition to the new job you desire."
+    },
+    {
+        "id": "id10",
+        "title": "Will this service be kept confidential?",
+        "description":"Absolutely. All data is strictly confidential. We have strict internal controls on document access."
+    },
+    {
+        "id": "id11",
+        "title": "What is the linkedin rewrite?",
+        "description":"When you add a LinkedIn Rewrite to your Resume writing order, you collaborate with the same professional resume writer who crafts your resume. Your writer adapts your career story and skills to match the most-used keywords in your industry and to fit LinkedIn’s character limitations, putting your profile at the top of search results. Our team then presents you with a document of what to insert into your profile."
+    },
+    {
+        "id": "id12",
+        "title": "How does the 30-day guarantee work?",
+        "description":"If your new CV don’t get you any interview call backs or emails requesting more information within 30 days, simply request a 100% money back refund. No questions asked. We’ll issue the refund directly to your credit card. Please take note that in the event of a refund, the documents remain property of the company. As such, you are not to use it for your own recruitment purposes. All refund requests must be made within 30 days of payment."
+    },
+    {
+        "id": "id14",
+        "title": "Do you offer discounts?",
+        "description":"Yes. We give discounts for entering your email address on our homepage when you are requesting customer feedback."
+    }
+]

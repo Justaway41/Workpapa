@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "start": "node -r esm express.js",
+    "dev": "nodemon -r esm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "prerender-node": "^3.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}

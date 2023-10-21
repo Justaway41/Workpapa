@@ -1,0 +1,29 @@
+{
+    "homepage": {
+        "product1": {
+            "title": "Workpapa | Professional resume writing in canada",
+            "description": "Workpapa | Professional resume writing",
+            "keywords":"Resume Writing toronto, resume writing services toronto, resume writers toronto, resume writing services in toronto, resume writers in toronto, professional resume writer in toronto, resume writing toronto, resume writers toronto, cv writers toronto, professional resume writing in toronto"
+        },
+        "product2": {
+            "title": "Workpapa | Professional cv writing in uae",
+            "description": "Workpapa | Professional cv writing",
+            "keywords":"cv writers dubai, resume writing services dubai, cv writing services in dubai, cv writers in dubai, professional cv maker in dubai, cv writing services, cv writers dubai, professional cv writing in dubai, cv making in dubai, creative resume writing services, professional cv and linkedin, profile writer in dubai"
+        },
+        "product3": {
+            "title": "Workpapa | Professional resume writing in singapore",
+            "description": "Workpapa | Professional resume writing",
+            "keywords":"resume writing singapore, resume writing services singapore, resume writers singapore, resume writing services in singapore, resume writers in singapore, professional resume writer in singapore, resume writing singapore, resume writers singapore, professional resume writing in singapore"
+        },
+        "product4": {
+            "title": "Workpapa | Professional resume writing | cv writing",
+            "description": "Workpapa | Professional resume writing | cv writing",
+            "keywords":""
+        }
+    },
+    "default": {
+        "title": "Workpapa | Professional resume writing in canada",
+        "description": "Workpapa | Professional resume writing",
+        "keywords":"Resume Writing toronto, resume writing services toronto, resume writers toronto, resume writing services in toronto, resume writers in toronto, professional resume writer in toronto, resume writing toronto, resume writers toronto, cv writers toronto, professional resume writing in toronto"
+    }
+}

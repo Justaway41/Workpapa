@@ -1,0 +1,1178 @@
+{
+    "id28": {
+        "id": "id28",
+        "max_range": 10000,
+        "to_show": true,
+        "price": 20,
+        "data": {
+            "in": {
+                "salary": "2,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "35,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "35,000 sgd",
+                "price": 21
+            },
+            "ca": {
+                "salary": "35,000 cad",
+                "price": 22
+            },
+            "us": {
+                "salary": "$10000",
+                "price": 20
+            }
+        }
+    },
+    "id29": {
+        "id": "id29",
+        "max_range": 15000,
+        "to_show": true,
+        "price": 20,
+        "data": {
+            "in": {
+                "salary": "3,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "55,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "40,000 sgd",
+                "price": 24
+            },
+            "ca": {
+                "salary": "40,000 cad",
+                "price": 25
+            },
+            "us": {
+                "salary": "$15000",
+                "price": 20
+            }
+        }
+    },
+    "id1": {
+        "id": "id1",
+        "max_range": 20000,
+        "to_show": true,
+        "price": 20,
+        "data": {
+            "in": {
+                "salary": "4,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "75,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "45,000 sgd",
+                "price": 27
+            },
+            "ca": {
+                "salary": "45,000 cad",
+                "price": 28
+            },
+            "us": {
+                "salary": "$20000",
+                "price": 20
+            }
+        }
+    },
+    "id2":{
+        "id": "id2",
+        "max_range": 25000,
+        "to_show": true,
+        "price": 20,
+        "data": {
+            "in": {
+                "salary": "5,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "95,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "50,000 sgd",
+                "price": 30
+            },
+            "ca": {
+                "salary": "50,000 cad",
+                "price": 31
+            },
+            "us": {
+                "salary": "$25000",
+                "price": 20
+            }
+        }
+    },
+    "id3":{
+        "id": "id3",
+        "max_range": 30000,
+        "to_show": true,
+        "price": 24,
+        "data": {
+            "in": {
+                "salary": "6,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "115,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "55,000 sgd",
+                "price": 33
+            },
+            "ca": {
+                "salary": "55,000 cad",
+                "price": 34
+            },
+            "us": {
+                "salary": "$30000",
+                "price": 24
+            }
+        }
+    },
+    "id4":{
+        "id": "id4",
+        "max_range": 35000,
+        "to_show": true,
+        "price": 28,
+        "data": {
+            "in": {
+                "salary": "7,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "135,000 aed",
+                "price": 20
+            },
+            "sg": {
+                "salary": "65,000 sgd",
+                "price": 36
+            },
+            "ca": {
+                "salary": "65,000 cad",
+                "price": 40
+            },
+            "us": {
+                "salary": "$35000",
+                "price": 28
+            }
+        }
+    },
+    "id5":{
+        "id": "id5",
+        "max_range": 40000,
+        "to_show": true,
+        "price": 32,
+        "data": {
+            "in": {
+                "salary": "8,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "155,000 aed",
+                "price": 22
+            },
+            "sg": {
+                "salary": "70,000 sgd",
+                "price": 39
+            },
+            "ca": {
+                "salary": "70,000 cad",
+                "price": 43
+            },
+            "us": {
+                "salary": "$40000",
+                "price": 32
+            }
+        }
+    },
+    "id6":{
+        "id": "id6",
+        "max_range": 45000,
+        "to_show": true,
+        "price": 36,
+        "data": {
+            "in": {
+                "salary": "9,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "175,000 aed",
+                "price": 24
+            },
+            "sg": {
+                "salary": "75,000 sgd",
+                "price": 42
+            },
+            "ca": {
+                "salary": "75,000 cad",
+                "price": 46
+            },
+            "us": {
+                "salary": "$45000",
+                "price": 36
+            }
+        }
+    },
+    "id7":{
+        "id": "id7",
+        "max_range": 50000,
+        "to_show": true,
+        "price": 40,
+        "data": {
+            "in": {
+                "salary": "10,50,000 rs",
+                "price": 20
+            },
+            "ae": {
+                "salary": "195,000 aed",
+                "price": 25
+            },
+            "sg": {
+                "salary": "80,000 sgd",
+                "price": 45
+            },
+            "ca": {
+                "salary": "80,000 cad",
+                "price": 49
+            },
+            "us": {
+                "salary": "$50000",
+                "price": 40
+            }
+        }
+    },
+    "id8":{
+        "id": "id8",
+        "max_range": 55000,
+        "to_show": true,
+        "price": 44,
+        "data": {
+            "in": {
+                "salary": "11,50,000 rs",
+                "price": 21
+            },
+            "ae": {
+                "salary": "215,000 aed",
+                "price": 27
+            },
+            "sg": {
+                "salary": "85,000 sgd",
+                "price": 48
+            },
+            "ca": {
+                "salary": "85,000 cad",
+                "price": 52
+            },
+            "us": {
+                "salary": "$55000",
+                "price": 44
+            }
+        }
+    },
+    "id9":{
+        "id": "id9",
+        "max_range": 60000,
+        "to_show": true,
+        "price": 48,
+        "data": {
+            "in": {
+                "salary": "12,50,000 rs",
+                "price": 23
+            },
+            "ae": {
+                "salary": "235,000 aed",
+                "price": 29
+            },
+            "sg": {
+                "salary": "90,000 sgd",
+                "price": 51
+            },
+            "ca": {
+                "salary": "90,000 cad",
+                "price": 55
+            },
+            "us": {
+                "salary": "$60000",
+                "price": 48
+            }
+        }
+    },
+    "id10":{
+        "id": "id10",
+        "max_range": 65000,
+        "to_show": true,
+        "price": 52,
+        "data": {
+            "in": {
+                "salary": "13,50,000 rs",
+                "price": 24
+            },
+            "ae": {
+                "salary": "255,000 aed",
+                "price": 31
+            },
+            "sg": {
+                "salary": "95,000 sgd",
+                "price": 54
+            },
+            "ca": {
+                "salary": "95,000 cad",
+                "price": 58
+            },
+            "us": {
+                "salary": "$65000",
+                "price": 52
+            }
+        }
+    },
+    "id11":{
+        "id": "id11",
+        "max_range": 70000,
+        "to_show": true,
+        "price": 56,
+        "data": {
+            "in": {
+                "salary": "14,50,000 rs",
+                "price": 25
+            },
+            "ae": {
+                "salary": "275,000 aed",
+                "price": 32
+            },
+            "sg": {
+                "salary": "100,000 sgd",
+                "price": 57
+            },
+            "ca": {
+                "salary": "100,000 cad",
+                "price": 61
+            },
+            "us": {
+                "salary": "$70000",
+                "price": 56
+            }
+        }
+    },
+    "id12":{
+        "id": "id12",
+        "max_range": 75000,
+        "to_show": true,
+        "price": 60,
+        "data": {
+            "in": {
+                "salary": "15,50,000 rs",
+                "price": 26
+            },
+            "ae": {
+                "salary": "295,000 aed",
+                "price": 34
+            },
+            "sg": {
+                "salary": "105,000 sgd",
+                "price": 60
+            },
+            "ca": {
+                "salary": "105,000 cad",
+                "price": 64
+            },
+            "us": {
+                "salary": "$75000",
+                "price": 60
+            }
+        }
+    },
+    "id13":{
+        "id": "id13",
+        "max_range": 80000,
+        "to_show": true,
+        "price": 64,
+        "data": {
+            "in": {
+                "salary": "16,50,000 rs",
+                "price": 28
+            },
+            "ae": {
+                "salary": "315,000 aed",
+                "price": 36
+            },
+            "sg": {
+                "salary": "110,000 sgd",
+                "price": 63
+            },
+            "ca": {
+                "salary": "110,000 cad",
+                "price": 67
+            },
+            "us": {
+                "salary": "$80000",
+                "price": 64
+            }
+        }
+    },
+    "id14":{
+        "id": "id14",
+        "max_range": 85000,
+        "to_show": true,
+        "price": 68,
+        "data": {
+            "in": {
+                "salary": "17,50,000 rs",
+                "price": 29
+            },
+            "ae": {
+                "salary": "335,000 aed",
+                "price": 38
+            },
+            "sg": {
+                "salary": "115,000 sgd",
+                "price": 66
+            },
+            "ca": {
+                "salary": "115,000 cad",
+                "price": 70
+            },
+            "us": {
+                "salary": "$85000",
+                "price": 68
+            }
+        }
+    },
+    "id15":{
+        "id": "id15",
+        "max_range": 90000,
+        "to_show": true,
+        "price": 72,
+        "data": {
+            "in": {
+                "salary": "18,50,000 rs",
+                "price": 30
+            },
+            "ae": {
+                "salary": "355,000 aed",
+                "price": 39
+            },
+            "sg": {
+                "salary": "120,000 sgd",
+                "price": 69
+            },
+            "ca": {
+                "salary": "120,000 cad",
+                "price": 73
+            },
+            "us": {
+                "salary": "$90000",
+                "price": 72
+            }
+        }
+    },
+    "id16":{
+        "id": "id16",
+        "max_range": 95000,
+        "to_show": true,
+        "price": 76,
+        "data": {
+            "in": {
+                "salary": "19,50,000 rs",
+                "price": 31
+            },
+            "ae": {
+                "salary": "375,000 aed",
+                "price": 41
+            },
+            "sg": {
+                "salary": "125,000 sgd",
+                "price": 72
+            },
+            "ca": {
+                "salary": "125,000 cad",
+                "price": 76
+            },
+            "us": {
+                "salary": "$95000",
+                "price": 76
+            }
+        }
+    },
+    "id17":{
+        "id": "id17",
+        "max_range": 100000,
+        "to_show": true,
+        "price": 80,
+        "data": {
+            "in": {
+                "salary": "20,50,000 rs",
+                "price": 33
+            },
+            "ae": {
+                "salary": "395,000 aed",
+                "price": 43
+            },
+            "sg": {
+                "salary": "130,000 sgd",
+                "price": 75
+            },
+            "ca": {
+                "salary": "130,000 cad",
+                "price": 79
+            },
+            "us": {
+                "salary": "$100000",
+                "price": 80
+            }
+        }
+    },
+    "id18":{
+        "id": "id18",
+        "max_range": 105000,
+        "to_show": true,
+        "price": 84,
+        "data": {
+            "in": {
+                "salary": "21,50,000 rs",
+                "price": 34
+            },
+            "ae": {
+                "salary": "415,000 aed",
+                "price": 45
+            },
+            "sg": {
+                "salary": "135,000 sgd",
+                "price": 78
+            },
+            "ca": {
+                "salary": "135,000 cad",
+                "price": 82
+            },
+            "us": {
+                "salary": "$105000",
+                "price": 84
+            }
+        }
+    },
+    "id19":{
+        "id": "id19",
+        "max_range": 110000,
+        "to_show": true,
+        "price": 88,
+        "data": {
+            "in": {
+                "salary": "22,50,000 rs",
+                "price": 35
+            },
+            "ae": {
+                "salary": "435,000 aed",
+                "price": 46
+            },
+            "sg": {
+                "salary": "140,000 sgd",
+                "price": 81
+            },
+            "ca": {
+                "salary": "140,000 cad",
+                "price": 85
+            },
+            "us": {
+                "salary": "$110000",
+                "price": 0
+            }
+        }
+    },
+    "id20":{
+        "id": "id20",
+        "max_range": 115000,
+        "to_show": true,
+        "price": 92,
+        "data": {
+            "in": {
+                "salary": "23,50,000 rs",
+                "price": 36
+            },
+            "ae": {
+                "salary": "455,000 aed",
+                "price": 48
+            },
+            "sg": {
+                "salary": "145,000 sgd",
+                "price": 84
+            },
+            "ca": {
+                "salary": "145,000 cad",
+                "price": 88
+            },
+            "us": {
+                "salary": "$115000",
+                "price": 92
+            }
+        }
+    },
+    "id21":{
+        "id": "id21",
+        "max_range": 120000,
+        "to_show": true,
+        "price": 96,
+        "data": {
+            "in": {
+                "salary": "24,50,000 rs",
+                "price": 38
+            },
+            "ae": {
+                "salary": "475,000 aed",
+                "price": 50
+            },
+            "sg": {
+                "salary": "150,000 sgd",
+                "price": 87
+            },
+            "ca": {
+                "salary": "150,000 cad",
+                "price": 91
+            },
+            "us": {
+                "salary": "$120000",
+                "price": 96
+            }
+        }
+    },
+    "id22":{
+        "id": "id22",
+        "max_range": 125000,
+        "to_show": true,
+        "price": 100,
+        "data": {
+            "in": {
+                "salary": "25,00,000 rs",
+                "price": 39
+            },
+            "ae": {
+                "salary": "495,000 aed",
+                "price": 52
+            },
+            "sg": {
+                "salary": "155,000 sgd",
+                "price": 90
+            },
+            "ca": {
+                "salary": "155,000 cad",
+                "price": 94
+            },
+            "us": {
+                "salary": "$125000",
+                "price": 100
+            }
+        }
+    },
+    "id23":{
+        "id": "id23",
+        "max_range": 130000,
+        "to_show": true,
+        "price": 104,
+        "data": {
+            "in": {
+                "salary": "26,00,000 rs",
+                "price": 40
+            },
+            "ae": {
+                "salary": "515,000 aed",
+                "price": 53
+            },
+            "sg": {
+                "salary": "160,000 sgd",
+                "price": 93
+            },
+            "ca": {
+                "salary": "160,000 cad",
+                "price": 97
+            },
+            "us": {
+                "salary": "$130000",
+                "price": 104
+            }
+        }
+    },
+    "id24":{
+        "id": "id24",
+        "max_range": 135000,
+        "to_show": true,
+        "price": 108,
+        "data": {
+            "in": {
+                "salary": "27,00,000 rs",
+                "price": 41
+            },
+            "ae": {
+                "salary": "535,000 aed",
+                "price": 55
+            },
+            "sg": {
+                "salary": "165,000 sgd",
+                "price": 96
+            },
+            "ca": {
+                "salary": "165,000 cad",
+                "price": 100
+            },
+            "us": {
+                "salary": "$135000",
+                "price": 108
+            }
+        }
+    },
+    "id25":{
+        "id": "id25",
+        "max_range": 140000,
+        "to_show": true,
+        "price": 112,
+        "data": {
+            "in": {
+                "salary": "28,00,000 rs",
+                "price": 43
+            },
+            "ae": {
+                "salary": "555,000 aed",
+                "price": 57
+            },
+            "sg": {
+                "salary": "170,000 sgd",
+                "price": 99
+            },
+            "ca": {
+                "salary": "170,000 cad",
+                "price": 103
+            },
+            "us": {
+                "salary": "$140000",
+                "price": 112
+            }
+        }
+    },
+    "id26":{
+        "id": "id26",
+        "max_range": 145000,
+        "to_show": true,
+        "price": 116,
+        "data": {
+            "in": {
+                "salary": "29,00,000 rs",
+                "price": 44
+            },
+            "ae": {
+                "salary": "575,000 aed",
+                "price": 59
+            },
+            "sg": {
+                "salary": "175,000 sgd",
+                "price": 102
+            },
+            "ca": {
+                "salary": "175,000 cad",
+                "price": 106
+            },
+            "us": {
+                "salary": "$145000",
+                "price": 116
+            }
+        }
+    },
+    "id27":{
+        "id": "id27",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "30,00,000 rs",
+                "price": 45
+            },
+            "ae": {
+                "salary": "595,000 aed",
+                "price": 60
+            },
+            "sg": {
+                "salary": "180,000 sgd",
+                "price": 105
+            },
+            "ca": {
+                "salary": "180,000 cad",
+                "price": 109
+            },
+            "us": {
+                "salary": "$150000",
+                "price": 120
+            }
+        }
+    },
+    "id30":{
+        "id": "id30",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "31,00,000 rs",
+                "price": 46
+            },
+            "ae": {
+                "salary": "615,000 aed",
+                "price": 62
+            },
+            "sg": {
+                "salary": "185,000 sgd",
+                "price": 108
+            },
+            "ca": {
+                "salary": "185,000 cad",
+                "price": 112
+            },
+            "us": {
+                "salary": "$155000",
+                "price": 124
+            }
+        }
+    },
+    "id31":{
+        "id": "id31",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "32,00,000 rs",
+                "price": 48
+            },
+            "ae": {
+                "salary": "635,000 aed",
+                "price": 64
+            },
+            "sg": {
+                "salary": "190,000 sgd",
+                "price": 111
+            },
+            "ca": {
+                "salary": "190,000 cad",
+                "price": 115
+            },
+            "us": {
+                "salary": "$160000",
+                "price": 128
+            }
+        }
+    },
+    "id32":{
+        "id": "id32",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "33,00,000 rs",
+                "price": 49
+            },
+            "ae": {
+                "salary": "655,000 aed",
+                "price": 66
+            },
+            "sg": {
+                "salary": "195,000 sgd",
+                "price": 114
+            },
+            "ca": {
+                "salary": "195,000 cad",
+                "price": 118
+            },
+            "us": {
+                "salary": "$165000",
+                "price": 132
+            }
+        }
+    },
+    "id33":{
+        "id": "id33",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "34,00,000 rs",
+                "price": 50
+            },
+            "ae": {
+                "salary": "675,000 aed",
+                "price": 67
+            },
+            "sg": {
+                "salary": "200,000 sgd",
+                "price": 117
+            },
+            "ca": {
+                "salary": "200,000 cad",
+                "price": 121
+            },
+            "us": {
+                "salary": "$170000",
+                "price": 136
+            }
+        }
+    },
+    "id34":{
+        "id": "id34",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "35,00,000 rs",
+                "price": 51
+            },
+            "ae": {
+                "salary": "695,000 aed",
+                "price": 69
+            },
+            "sg": {
+                "salary": "205,000 sgd",
+                "price": 120
+            },
+            "ca": {
+                "salary": "205,000 cad",
+                "price": 124
+            },
+            "us": {
+                "salary": "$175000",
+                "price": 140
+            }
+        }
+    },
+    "id35":{
+        "id": "id35",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "36,00,000 rs",
+                "price": 53
+            },
+            "ae": {
+                "salary": "715,000 aed",
+                "price": 71
+            },
+            "sg": {
+                "salary": "210,000 sgd",
+                "price": 123
+            },
+            "ca": {
+                "salary": "210,000 cad",
+                "price": 127
+            },
+            "us": {
+                "salary": "$180000",
+                "price": 144
+            }
+        }
+    },
+    "id36":{
+        "id": "id36",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "37,00,000 rs",
+                "price": 54
+            },
+            "ae": {
+                "salary": "735,000 aed",
+                "price": 73
+            },
+            "sg": {
+                "salary": "215,000 sgd",
+                "price": 126
+            },
+            "ca": {
+                "salary": "215,000 cad",
+                "price": 130
+            },
+            "us": {
+                "salary": "$185000",
+                "price": 148
+            }
+        }
+    },
+    "id37":{
+        "id": "id37",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "38,00,000 rs",
+                "price": 55
+            },
+            "ae": {
+                "salary": "755,000 aed",
+                "price": 74
+            },
+            "sg": {
+                "salary": "220,000 sgd",
+                "price": 129
+            },
+            "ca": {
+                "salary": "220,000 cad",
+                "price": 133
+            },
+            "us": {
+                "salary": "$190000",
+                "price": 152
+            }
+        }
+    },
+    "id38":{
+        "id": "id38",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "39,00,000 rs",
+                "price": 56
+            },
+            "ae": {
+                "salary": "775,000 aed",
+                "price": 76
+            },
+            "sg": {
+                "salary": "225,000 sgd",
+                "price": 132
+            },
+            "ca": {
+                "salary": "225,000 cad",
+                "price": 136
+            },
+            "us": {
+                "salary": "$195000",
+                "price": 156
+            }
+        }
+    },
+    "id39":{
+        "id": "id39",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "40,00,000 rs",
+                "price": 58
+            },
+            "ae": {
+                "salary": "795,000 aed",
+                "price": 78
+            },
+            "sg": {
+                "salary": "230,000 sgd",
+                "price": 135
+            },
+            "ca": {
+                "salary": "230,000 cad",
+                "price": 139
+            },
+            "us": {
+                "salary": "$200000",
+                "price": 160
+            }
+        }
+    },
+    "id40":{
+        "id": "id40",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "41,00,000 rs",
+                "price": 59
+            },
+            "ae": {
+                "salary": "815,000 aed",
+                "price": 80
+            },
+            "sg": {
+                "salary": "235,000 sgd",
+                "price": 138
+            },
+            "ca": {
+                "salary": "235,000 cad",
+                "price": 142
+            },
+            "us": {
+                "salary": "$205000",
+                "price": 164
+            }
+        }
+    },
+    "id41":{
+        "id": "id41",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "42,00,000 rs",
+                "price": 60
+            },
+            "ae": {
+                "salary": "835,000 aed",
+                "price": 81
+            },
+            "sg": {
+                "salary": "240,000 sgd",
+                "price": 141
+            },
+            "ca": {
+                "salary": "240,000 cad",
+                "price": 145
+            },
+            "us": {
+                "salary": "$210000",
+                "price": 168
+            }
+        }
+    },
+    "id42":{
+        "id": "id42",
+        "max_range": 150000,
+        "to_show": true,
+        "price": 120,
+        "data": {
+            "in": {
+                "salary": "43,00,000 rs",
+                "price": 61
+            },
+            "ae": {
+                "salary": "855,000 aed",
+                "price": 85
+            },
+            "sg": {
+                "salary": "245,000 sgd",
+                "price": 144
+            },
+            "ca": {
+                "salary": "245,000 cad",
+                "price": 148
+            },
+            "us": {
+                "salary": "$215000",
+                "price": 172
+            }
+        }
+    }
+}

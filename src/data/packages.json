@@ -1,0 +1,274 @@
+{
+    "product": {
+        "service": {
+            "FGR":{
+                "code": "FGR",
+                "name": "Fresh Grad",
+                "description": "Clients with 0 - 2 Years Of Working Experience",
+                "price": [
+                    {"amt": 20.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "ECR": {
+                "code": "ECR",
+                "name": "Early Career",
+                "description": "Clients With 2 - 10 Years Of Working Experience",
+                "price": [
+                    {"amt": 25.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "MCR": {
+                "code": "MCR",
+                "name": "Mid Career",
+                "description": "Clients With 10 - 20 Years Of Working Experience",
+                "price": [
+                    {"amt": 30.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "SRS": {
+                "code": "SRS",
+                "url": "senior",
+                "name": "Senior",
+                "description": "Clients With 20+ Years Of Working Experience",
+                "price": [
+                    {"amt": 35.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "RTS": {
+                "code": "RTS",
+                "url": "resume-template",
+                "name": "Resume Template",
+                "description": "I only want to change the look of my CV",
+                "price": [
+                    {"amt": 10.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "BRC": {
+                "code": "BRC",
+                "name": "Resume Critique",
+                "description": "A dedicated team of top career services professionals, at your service!",
+                "price": [
+                    {"amt": 13.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "BRR": {
+                "code": "BRR",
+                "name": "Career Change Rewrite",
+                "description": "An expertly written and keyword-optimized resume that sets you apart.",
+                "price": [
+                    {"amt": 60.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "PRR": {
+                "code": "PRR",
+                "name": "Pro Resume Rewrite",
+                "description": "Everything you need to apply to jobs, including a resume and cover letter.",
+                "price": [
+                    {"amt": 90.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "ARR": {
+                "code": "ARR",
+                "name": "Advance Resume Rewrite",
+                "description": "Resume, cover letter, and LinkedIn profile, created by an executive writer.",
+                "price": [
+                    {"amt": 125.00, "month": 1, "save": 30}
+                ],
+                "percent": 0,                                
+                "default": 0
+            },
+            "LRR": {
+                "code": "LRR",
+                "name": "LinkedIn Rewrite",
+                "description": "Professional formatting, Option to talk with writer, Specialists in 60 industries",
+                "price": [
+                    {"amt": 38.00, "month": 0, "save": 30}
+                ],
+                "percent": 0,                
+                "default": 0
+            },
+            "ERS":{
+                "code": "ERS",
+                "name": "Entry",
+                "description": "",
+                "price": [
+                    {"amt": 0, "month": 1, "save": 30}
+                ],
+                "percent": 5,                
+                "default": 0
+            },
+            "PRS": {
+                "code": "PRS",
+                "name": "Professional",
+                "description": "",
+                "price": [
+                    {"amt": 0, "month": 1, "save": 30}
+                ],
+                "percent": 10,                
+                "default": 0
+            },
+            "CCS": {
+                "code": "CCS",
+                "name": "Career Change",
+                "description": "",
+                "price": [
+                    {"amt": 0, "month": 1, "save": 30}
+                ],
+                "percent": 15,                
+                "default": 0
+            },
+            "ECS": {
+                "code": "ECS",
+                "name": "Executive",
+                "description": "",
+                "price": [
+                    {"amt": 0, "month": 1, "save": 30}
+                ],
+                "percent": 20,                
+                "default": 0
+            },
+            "RRN": {
+                "code": "RRN",
+                "url": "read-notification",
+                "name": "Resume Read Notification",
+                "description": "See what happens to your resume after you press send",
+                "price": [
+                    {"amt": 6.99, "month": 1, "save": 30},
+                    {"amt": 4.99, "month": 3, "save": 50},
+                    {"amt": 2.99, "month": 6, "save": 70}
+                ],
+                "default": 3
+            }
+        } 
+    },
+    "service": {
+        "product": {
+            "RRS": {
+                "code": "RRS",
+                "name": "##RESUMETEXT## Rewriting",
+                "description": "Includes rewriting & a brand new template"
+            },
+            "RDS": {
+                "code": "RDS",
+                "name": "Deluxe package: ##RESUMETEXT## rewrite + Linkedin update + Cover letter & thank you letter",
+                "description": ""
+            },
+            "RPC": {
+                "code": "RPC",
+                "name": "Rewriting Package: ##RESUMETEXT## Rewriting & Cover Letter",
+                "description": ""
+            },
+            "RCF": {
+                "code": "RCF",
+                "name": "Full Starter Package: ##RESUMETEXT## Creation, Cover Letter Creation & LinkedIn Profile Writing",
+                "description": ""
+            },
+            "FRS": {
+                "code": "FRS",
+                "name": "Full Package: ##RESUMETEXT## Rewriting + Cover Letter + Thank-you & Follow-up Letters",
+                "description": ""
+            },
+            "RCC": {
+                "code": "RCC",
+                "name": "Starter Package: ##RESUMETEXT## Creation + Cover Letter Creation",
+                "description": ""
+            },
+            "RCL": {
+                "code": "RCL",
+                "name": "Linkedin Starter: ##RESUMETEXT## Creation & LinkedIn Profile Writing",
+                "description": ""
+            },
+            "RCU": {
+                "code": "RCU",
+                "name": "Linkedin Package: ##RESUMETEXT## Writing & LinkedIn Profile Rewriting",
+                "description": ""
+            },
+            "RCS": {
+                "code": "RCS",
+                "name": "##RESUMETEXT## Creation",
+                "description": ""
+            },
+            "ICR": {
+                "code": "ICR",
+                "name": "Interview + Job Coaching & Resume Rewriting",
+                "description": ""
+            },
+            "CCV": {
+                "code": "CCV",
+                "name": "Career Change Evolution",
+                "description": "Have a resume/cv, I want to change my career direction"
+            },
+            "LPS": {
+                "code": "LPS",
+                "name": "LinkedIn Profile",
+                "description": ""
+            },
+            
+            "CLS": {
+                "code": "CLS",
+                "name": "Cover Letter",
+                "description": ""
+            },
+            "RTS": {
+                "code": "RTS",
+                "name": "Resume Template",
+                "description": "I only want to change the look of my CV"
+            }
+        },
+        "experience": {
+            "FGR": {
+                "code": "FGR",
+                "name": "Entry Level",
+                "description": "Clients with 0 - 2 Years Of Working Experience"
+            },
+            "ECR": {
+                "code": "ECR",
+                "name": "Early Career",
+                "description": "Clients With 2 - 5 Years Of Working Experience"
+            },
+            "JCR": {
+                "code": "JCR",
+                "name": "Junior Career",
+                "description": "Clients With 5 - 10 Years Of Working Experience"
+            },
+            "MCR": {
+                "code": "MCR",
+                "name": "Mid Career",
+                "description": "Clients With 10 - 20 Years Of Working Experience"
+            },
+            "SRS": {
+                "code": "SRS",
+                "name": "Senior",
+                "description": "Clients With 20+ Years Of Working Experience"
+            },
+            "ECS": {
+                "code": "ECS",
+                "name": "Executive/ c-suite ",
+                "description": "Clients With CEO, CFO etc"
+            }
+        },
+        "library": {
+            "LBA": {
+                "code": "LBA",
+                "name": "basic",
+                "description": "Unlimited access in"
+            }
+        }
+    }
+}

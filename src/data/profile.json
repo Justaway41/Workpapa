@@ -1,0 +1,250 @@
+[
+    {
+        "id": "1",
+        "name": "Amir Khan",
+        "img": "jonathan-home.jpg" ,
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "This is a very good dermatologist if you want a fast, competent staff with the ability to work around your schedule"
+    },
+    {
+        "id": "2",
+        "name": "Ali Sultan",
+        "img": "anuradha-singh.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "I've had great experiences with this practice. Sari with the skin checks, With my teenager's acne and my, ahem, rejuvenations, and Dr. helping remove various sun-related thingies."
+    },
+    {
+        "id": "3",
+        "name": "Kasun Al-Hayrani",
+        "img": "sara-hedvat.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "The staff is amazing! The woman at the front desk greeted me and took all of my information right away. I highly recommend coming to this office. It is clean, modern, and everyone is so nice. There was coffee & water upon arrival and I was seen right away."
+    },
+    {
+        "id": "4",
+        "name": "Abdoulaye Adam Ali",
+        "img": "waqar-bari.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about":"When I got there and I mentioned my name at the front desk knew exactly who I was. While I filled out all my paper work constantly checked in to make sure that I was comfortable and not in pain. 10 minutes later I was being ushered into a room to be looked at."
+    },
+    {
+        "id": "5",
+        "name": "Alex Suleiman",
+        "img": "jonathan-home.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "I've been to so many offices in Doha, and this one is by far my favorite.  Incredibly adept and is so personable. She saved my face. Would never go to anyone else."  
+    },
+    {
+        "id": "6",
+        "name": "Adama Haydar",
+        "img": "anuradha-singh.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "New patient here, was recommended to the Group and Dr.  by a friend of mine who is also one of his patients. I've seen Dr. 3 times now to treat a chronic skin condition I have, his regimen of items he prescribed for me seems to be working really well and I'm very pleased!"
+    },
+    {
+        "id": "7",
+        "name": "Crseven Ogunode",
+        "img": "sara-hedvat.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Have sensitive skin, and the littlest thing could break me out. I've been to countless allergist/dermatologist & they were unable to help me. Finally, I came to Dermatology and meet with doctor. He was extremely attentive to me and wanted to relieve the misery I was living. She was able to help me to maintain my outbreaks, it's been six months since my skin broke out in hives - & it was minor."
+    },
+    {
+        "id": "8",
+        "name": "Hayat Warsama",
+        "img": "waqar-bari.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Everyone in this office is nothing but helpful.  I was able to make an appointment in one day.  They were able to help me & heal quickly."
+    },
+    {
+        "id": "9",
+        "name": "Mariam Kamal",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "All I can say is what a Great experience my wife had from beginning to the end with doctor!! Everything she had done was explained to her in such a professional way and she felt so comfortable!!"    
+    },
+    {
+        "id": "10",
+        "name": "Omar Ad-Dawah",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Omar was very kind, enthusiastic,and straight forward. He even gave me a free cortisone injection on a pimple that was on my face for free! I was very satisfied with her service although it was just a consultation. Definitely would be back!"    
+    },
+    {
+        "id": "11",
+        "name": "Aaron Mousab",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "I have been going to Aaron for years and I will continue going to him. He is simply amazing!! It is extraordinarily rare to find a person that is honest and at the same time informative of what your skin really needs. He is truly a professional who I can trust, whether its a facial or a filler. "    
+    },
+    {
+        "id": "12",
+        "name": "Hazel Al-Hayrani",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Hazel started doing my laser and xeomin injections a few months ago, and I wish I would have started sooner! I was nervous about the xeomin since I'm getting married in a few shorts weeks, but nurse Genevieve is so skilled and knowledgeable I don't know what I was worried about! She will be my go to from now on for skincare and injections!"    
+    },
+    {
+        "id": "13",
+        "name": "Devang Abbas",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Dermatology Clinic. Doha. A Dermatology Clinic in Doha is looking for a Female dermatologist resident in Qatar and with experience in Qatar."    
+    },
+    {
+        "id": "14",
+        "name": "Alex Samba",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": ""    
+    },
+    {
+        "id": "15",
+        "name": "Abdoulaye Shaheen",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "It's the best clinic ever in Qatar as it's directed by the greatest Dermatologist Dr. Abdoulaye Shaheen  and it offers a safe and most effective therapy with high honesty and not like other centers who are more commercial  directed than therapeutic. I do highly recommend this center for therapy and beauty."    
+    },
+    {
+        "id": "16",
+        "name": "Lola Hairane",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": ""    
+    },
+    {
+        "id": "17",
+        "name": "Deema Suleiman",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "5 star does not deserve the frankness of the best clinics where I have been treated for patients. No good reception, no punctual appointments, no waste of time for more than an hour, only a quarter of a waiting period"    
+    },
+    {
+        "id": "18",
+        "name": "Mohammad Driouch",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Providing the Best Dermatology , Top Laser Hair Removal Treatments and Beauty Procedures. Not just in  Kuwait and Qatar but althrough Middle East. Aim to give you the State of the Art Technology combined with the best customer and patient care approach."    
+    },
+    {
+        "id": "19",
+        "name": "Solomon Hassan",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Leaders Skin Group & Clinic, located in Doha, Qatar, is a comprehensive dermatology clinic that offers wide array of services for a more youthful and healthy body using the latest technology."    
+    },
+    {
+        "id": "20",
+        "name": "Waqar Kwalia",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "For over three decades I have been working to provide Qatar with the best medical doctors, services, and technologies ... Founder and Consultant Dermatologist Waqar"    
+    },
+    {
+        "id": "21",
+        "name": "Gigi Bashir",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Our Dermatology department offers professional care for the largest organ-Skin. ... We bring them all here in the Qatar to ensure that our patients get the best ."    
+    },
+    {
+        "id": "22",
+        "name": "Abdoulaye Zaman",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Hi all,Can anyone please advise a good skin doctor in Doha?I found a number of clinics here but there were too many discrepant feedbacks on "    
+    },
+    {
+        "id": "23",
+        "name": "Muhammad Shebto",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "A free inside look at Dermatologist reviews for other companies in Doha, Qatar. Company reviews and salaries posted anonymously by employ."    
+    },
+    {
+        "id": "24",
+        "name": "Mohd Obaid",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Al-Ahli Hospital's Dermatology Department offers consultations for diagnosis and treatment of wide range of skin-related problems such as infections and..."    
+    },
+    {
+        "id": "25",
+        "name": "Ali Kibore",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Our healthcare facility is in need of a Female Dermatologist with knowledge in all areas of general…See this and ... Al-Ahli HospitalDoha, Doha, Qatar. 4 weeks..."    
+    },
+    {
+        "id": "26",
+        "name": "Kasun Warsama",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "A Dermatology Clinic in Doha is looking for a Female dermatologist resident in Qatar and with experience in Qatar. Job Type:. Doha (Required).... 18 days ago..."    
+    },
+    {
+        "id": "27",
+        "name": "Joel Shaheen",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "A close friend of mine had bad acne last year (26 years old) and what fixed it up was having a clean diet, working out (I guess the sweat burns the acne?) And drinking plenty of water"    
+    },
+    {
+        "id": "28",
+        "name": "Mateo Kemboi",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Dr Kemboi at UH is pretty good! He helped me with my acne and was in touch the entire time. Even when he was fully booked he’d answer his phone!"    
+    },
+    {
+        "id": "29",
+        "name": "Deema Al-Garni",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Dr A-Gami is probably the best there is but appointments are a pain, his clinic is in salmaniya hes been around for at least for 30 years probably more"    
+    },
+    {
+        "id": "30",
+        "name": "Caroline Kamal",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Is absolutely amazing, a true artist, I have done a number of different treatments with her and been happy every time . This time I came in for Micro needling..she took her time and explained every step ,moving to my cheeks, chin and around my nose, spending time on my areas of concern: frown line and the pores on my cheeks. Throughout Caroline checked on my comfort, to see if I was in pain"    
+    },
+    {
+        "id": "31",
+        "name": "Al Juhara Rasheed",
+        "img": "ali-alGhanem.jpg",
+        "service": "Dermatologist, Cosmetic Surgeon",
+        "location": "Doha, Qatar",
+        "about": "Even though Al Juhara ended up only recommending me at home products so I can't review her services, I was impressed by how she made me feel welcome and shared her advice with me."    
+    }
+]

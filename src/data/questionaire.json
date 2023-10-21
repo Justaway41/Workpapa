@@ -1,0 +1,116 @@
+[
+    {
+        "id": "id1",
+        "label": "Target  job title",
+        "required": true,
+        "answer": ""
+    },
+    {
+        "id": "id2",
+        "label": "Target industry (if any)",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id3",
+        "label": "General instructions for writer",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id4",
+        "label": "Things missing in cv/resume (to be added) or to be removed",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id5",
+        "label": "What would you like us to highlight?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id6",
+        "label": "Name skills, personality traits, achievements and reasons you think you should get your next job",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id7",
+        "label": "Would you be able to quantify some achievements you did (and tell us at which jobs these took place)?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id8",
+        "label": "What are your year by year achievements?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id9",
+        "label": "How many promotions did you get at each company (please describe in detail)?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id10",
+        "label": "What you did for the companies you worked with to provide growth?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id11",
+        "label": "Did you get any awards you would like us to mention?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id12",
+        "label": "Please elaborate on your concerns with your current resume",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id13",
+        "label": "What are your biggest concerns with your current resume?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id14",
+        "label": "What is the strongest aspect of your current resume?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id15",
+        "label": "Provide your writer with some job listings that interest you.",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id16",
+        "label": "Is there a specific job title you are seeking for your next position?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id17",
+        "label": "Are there any obstacles you feel are in the way of securing a new position?",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id18",
+        "label": "Please provide 2-3 of your proudest achievements or contributions for each of your positions.",
+        "required": false,        
+        "answer": ""
+    },
+    {
+        "id": "id19",
+        "label": "Anything else you want to tell your writer?",
+        "required": false,        
+        "answer": ""
+    }
+]

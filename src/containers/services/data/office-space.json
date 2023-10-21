@@ -1,0 +1,450 @@
+{
+    "serviceList" : [
+        {
+            "name": "Services Finder",
+            "code": "1"
+        },
+        {
+            "name": "Offices & Space",
+            "code": "2"
+        }
+    ],
+    "officeLocation" : [
+        {
+            "name": "Atlanta",
+            "code": "atlanta"
+        },
+        {
+            "name": "Austin",
+            "code": "austin"
+        },
+        {
+            "name": "Barcelona",
+            "code": "barcelona"
+        },
+        {
+            "name": "Berlin",
+            "code": "berlin"
+        },
+        {
+            "name": "Dubai",
+            "code": "dubai"
+        }
+    ],
+    "officeType": [
+        {
+            "name": "Parking space",
+            "code": "parking-space"
+        },
+        {
+            "name": "Desk",
+            "code": "desk"
+        },
+        {
+            "name": "Meeting Room",
+            "code": "meeting-room"
+        },
+        {
+            "name": "Office Space",
+            "code": "office-space"
+        },
+        {
+            "name": "Salon Booth",
+            "code": "salon-booth"
+        },
+        {
+            "name": "Events",
+            "code": "events"
+        },
+        {
+            "name": "Lecture Room",
+            "code": "lecture-room"
+        }
+    ],
+    "officePricingUnit": [
+        {
+            "name": "Per hour",
+            "code": "per-hour"
+        },
+        {
+            "name": "Per day",
+            "code": "per-day"
+        },
+        {
+            "name": "per 7 days",
+            "code": "per-7-days"
+        },
+        {
+            "name": "Per month,",
+            "code": "per-month,"
+        },
+        {
+            "name": "Per year",
+            "code": "per-year"
+        }
+    ],
+    "officeLocationType": [
+        {
+            "name": "Parking Lot",
+            "code": "parking-lot"
+        },
+        {
+            "name": "Business",
+            "code": "business"
+        },
+        {
+            "name": "Co-working",
+            "code": "co-working"
+        },
+        {
+            "name": "public",
+            "code": "public"
+        },
+        {
+            "name": "executive suites",
+            "code": "executive-suites"
+        }
+    ],
+    "serviceCategory": [
+        {
+            "name": "3d visualization services",
+            "code": "1"
+        },
+        {
+            "name": "Accountant",
+            "code": "2"
+        },
+        {
+            "name": "Air Conditioning",
+            "code": "3"
+        },
+        {
+            "name": "Airport shuttle",
+            "code": "4"
+        },
+        {
+            "name": "App development",
+            "code": "5"
+        },
+        {
+            "name": "Application writing",
+            "code": "6"
+        },
+        {
+            "name": "Architects",
+            "code": "7"
+        },
+        {
+            "name": "Artist",
+            "code": "8"
+        },
+        {
+            "name": "Beauty salons",
+            "code": "9"
+        },
+        {
+            "name": "Business plan writing",
+            "code": "10"
+        },
+        {
+            "name": "Car rental",
+            "code": "11"
+        },
+        {
+            "name": "Carpenter",
+            "code": "12"
+        },
+        {
+            "name": "Caterer",
+            "code": "13"
+        },
+        {
+            "name": "Chauffeur",
+            "code": "14"
+        },
+        {
+            "name": "Civil engineer",
+            "code": "15"
+        },
+        {
+            "name": "Cleaners",
+            "code": "16"
+        },
+        {
+            "name": "Construction",
+            "code": "17"
+        },
+        {
+            "name": "Cosmetician",
+            "code": "18"
+        },
+        {
+            "name": "CV writing/resume writing",
+            "code": "19"
+        },
+        {
+            "name": "Dating service",
+            "code": "20"
+        },
+        {
+            "name": "Delivery services",
+            "code": "21"
+        },
+        {
+            "name": "Dentist",
+            "code": "22"
+        },
+        {
+            "name": "Dermatologist",
+            "code": "23"
+        },
+        {
+            "name": "DJ",
+            "code": "24"
+        },
+        {
+            "name": "Doctor",
+            "code": "25"
+        },
+        {
+            "name": "Electrician",
+            "code": "26"
+        },
+        {
+            "name": "Electronics",
+            "code": "27"
+        },
+        {
+            "name": "ERP implementation",
+            "code": "28"
+        },
+        {
+            "name": "Essay writing",
+            "code": "29"
+        },
+        {
+            "name": "Financial services",
+            "code": "30"
+        },
+        {
+            "name": "Florist",
+            "code": "31"
+        },
+        {
+            "name": "Funeral services",
+            "code": "32"
+        },
+        {
+            "name": "Graphic design",
+            "code": "33"
+        },
+        {
+            "name": "Handyman",
+            "code": "34"
+        },
+        {
+            "name": "Health club",
+            "code": "35"
+        },
+        {
+            "name": "Helicopter service",
+            "code": "36"
+        },
+        {
+            "name": "Hospitals",
+            "code": "37"
+        },
+        {
+            "name": "Hotel",
+            "code": "38"
+        },
+        {
+            "name": "Insulation",
+            "code": "39"
+        },
+        {
+            "name": "Insurance",
+            "code": "40"
+        },
+        {
+            "name": "Interior designer",
+            "code": "41"
+        },
+        {
+            "name": "Landscaping",
+            "code": "42"
+        },
+        {
+            "name": "Legal",
+            "code": "43"
+        },
+        {
+            "name": "Limousine",
+            "code": "44"
+        },
+        {
+            "name": "Maid service",
+            "code": "45"
+        },
+        {
+            "name": "Maintenance",
+            "code": "46"
+        },
+        {
+            "name": "Makeup artist",
+            "code": "47"
+        },
+        {
+            "name": "Marketing",
+            "code": "48"
+        },
+        {
+            "name": "Massage",
+            "code": "49"
+        },
+        {
+            "name": "Model",
+            "code": "50"
+        },
+        {
+            "name": "Movers",
+            "code": "51"
+        },
+        {
+            "name": "Nurse",
+            "code": "52"
+        },
+        {
+            "name": "Nutritionist",
+            "code": "53"
+        },
+        {
+            "name": "Painting",
+            "code": "54"
+        },
+        {
+            "name": "Personal trainer",
+            "code": "55"
+        },
+        {
+            "name": "Photographer",
+            "code": "56"
+        },
+        {
+            "name": "Plumber",
+            "code": "57"
+        },
+        {
+            "name": "Project managers",
+            "code": "58"
+        },
+        {
+            "name": "Property management",
+            "code": "59"
+        },
+        {
+            "name": "Psychiatrist",
+            "code": "60"
+        },
+        {
+            "name": "Psychologist",
+            "code": "61"
+        },
+        {
+            "name": "Quantity surveyor",
+            "code": "62"
+        },
+        {
+            "name": "Real estate agent",
+            "code": "63"
+        },
+        {
+            "name": "Security",
+            "code": "64"
+        },
+        {
+            "name": "Security services",
+            "code": "65"
+        },
+        {
+            "name": "Seo services",
+            "code": "66"
+        },
+        {
+            "name": "Software development",
+            "code": "67"
+        },
+        {
+            "name": "Taxi service",
+            "code": "68"
+        },
+        {
+            "name": "Technical writing",
+            "code": "69"
+        },
+        {
+            "name": "Towing",
+            "code": "70"
+        },
+        {
+            "name": "Translation",
+            "code": "71"
+        },
+        {
+            "name": "Travel agency",
+            "code": "72"
+        },
+        {
+            "name": "Tutors",
+            "code": "73"
+        },
+        {
+            "name": "Upholstery",
+            "code": "74"
+        },
+        {
+            "name": "Visa services",
+            "code": "75"
+        },
+        {
+            "name": "Web Designer",
+            "code": "76"
+        },
+        {
+            "name": "Web development",
+            "code": "77"
+        },
+        {
+            "name": "Welder",
+            "code": "78"
+        }
+    ],
+    "servicePricingUnit": [
+        {
+            "name": "Per hour",
+            "code": "per-hour"
+        },
+        {
+            "name": "Fixed",
+            "code": "fixed"
+        }
+    ],
+    "officeCategory": [
+        {
+            "name": "Coworking Offices",
+            "code": "1"
+        },
+        {
+            "name": "Office Space (non coworking)",
+            "code": "2"
+        },
+        {
+            "name": "Event Space",
+            "code": "3"
+        },
+        {
+            "name": "Parking",
+            "code": "4"
+        }
+    ]
+}

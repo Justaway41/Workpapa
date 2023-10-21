@@ -1,0 +1,564 @@
+{
+    "product": [
+        {
+            "title": "Resume writing",
+            "icon":"writing.svg ",
+            "step": 2,
+            "color": "",
+            "name": "group9",
+            "packages": ["RRS"],           
+            "items": [
+                {
+                    "id": 70,
+                    "label": "Resume Rewriting",
+                    "description": "I have a resume, I need my existing resume re-written",
+                    "selected": true,
+                    "price": 0,
+                    "radio": true 
+                },
+                {
+                    "id": 71,
+                    "label": "Resume Creation",
+                    "description": "I dont have a CV, I need workpapa to write one for me.",
+                    "selected": false,
+                    "price": 20, 
+                    "radio": true
+                }
+            ]
+        },
+        {
+            "title": "Writing Delivery Time",
+            "icon":"delivery-truck-with-circular-clock.svg",
+            "step": 2,
+            "color": "",
+            "name": "group8",
+            "packages": ["RRS","RCS","LPS","CLS","RPC","FRS","RTS","RDS","RCC"],           
+            "items": [
+                {
+                    "id": 67,
+                    "label": "Normal service ##RESUMEDAYS## days max",
+                    "description": "currently there are ##RESUMEDAYS## CV/Resume projects pending",
+                    "selected": true,
+                    "price": 0,
+                    "radio": true 
+                },
+                {
+                    "id": 68,
+                    "label": "Fast Service 1-2 days max",
+                    "description": "Fast Service 1-2 days max",
+                    "selected": false,
+                    "price": 25, 
+                    "radio": true
+                },
+                {
+                    "id": 69,
+                    "label": "Medium Speed Service 3-4 days max",
+                    "description": "Medium Speed Service 3-4 days max",
+                    "selected": false,
+                    "price": 12,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "Templates/Layouts/Designs <small>(Choose how many styles)</small>",
+            "icon": "web-development.svg",        
+            "name": "group6",
+            "type": "select",
+            "selected": 55,
+            "step": 2,
+            "color": "",
+            "packages": ["RRS","RCS","RDS","RPC","RCC","FRS","RDS","RCF"],
+            "items" : [
+                {
+                    "id": 55,
+                    "label": "1 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": true,
+                    "price": 0, 
+                    "radio": true
+                },
+                {
+                    "id": 56,
+                    "label": "2 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": true 
+                },
+                {
+                    "id": 57,
+                    "label": "3 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 20,
+                    "radio": true 
+                },
+                {
+                    "id": 58,
+                    "label": "4 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 30,
+                    "radio": true 
+                },
+                {
+                    "id": 59,
+                    "label": "5 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 40,
+                    "radio": true 
+                },
+                {
+                    "id": 60,
+                    "label": "6 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 50,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "CV/Resumes <small>(If you think you will apply to different job types its a good idea.)</small>",
+            "icon": "envelope.svg",
+            "name": "group7",
+            "type": "select",
+            "selected": 61,
+            "step": 2,
+            "color": "",
+            "packages": ["RRS","RCS","RDS","RCC","RPC","FRS","RCF"],
+            "items" : [
+                {
+                    "id": 61,
+                    "label": "1 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": true,
+                    "price": 0, 
+                    "radio": true
+                },
+                {
+                    "id": 62,
+                    "label": "2 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 20,
+                    "radio": true 
+                },
+                {
+                    "id": 63,
+                    "label": "3 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 40,
+                    "radio": true 
+                },
+                {
+                    "id": 64,
+                    "label": "4 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 60,
+                    "radio": true 
+                },
+                {
+                    "id": 65,
+                    "label": "5 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 80,
+                    "radio": true 
+                },
+                {
+                    "id": 66,
+                    "label": "6 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 100,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "Cover letter",
+            "icon":"certificate.svg",
+            "step": 2,
+            "color": "#f0fff0",
+            "packages": ["RRS","RCS"],           
+            "items": [
+                {
+                    "id": 25,
+                    "label": "Basic cover letter template (just a standard template)",
+                    "description": "",
+                    "selected": true,
+                    "price": 0,
+                    "radio": false 
+                },
+                {
+                    "id": 27,
+                    "label": "I have a cover letter and want it re-written (delivery time 1 days)",
+                    "description": "Useful to show employers you are serious about their position",
+                    "selected": false,
+                    "price": 30, 
+                    "radio": false
+                },
+                {
+                    "id": 29,
+                    "label": "I don't have a cover letter and need one (delivery time, 1 days)",
+                    "description": "Many jobs require a cover letter. We suggest having one",
+                    "selected": false,
+                    "price": 40,
+                    "radio": false 
+                }
+            ]
+        },
+        {
+            "title": "Linkedin",
+            "icon":"certificate.svg",
+            "step": 2,
+            "color": "#f0f8ff",
+            "packages": ["RRS","RCS","CLS"],       
+            "items" : [
+                {
+                    "id": 21,
+                    "label": "Rewrite my linkedin in profile - (1 day after resume completion)",
+                    "description": "We will rewrite your linkedin for you using your CV/Resume in linkedin format",
+                    "selected": false,
+                    "price": 25,
+                    "radio": false 
+                },
+                {
+                    "id": 23,
+                    "label": "Rewrite linkedin plus cover letter - (1 day after resume completion)",
+                    "description": "Bundled deal for these 2 services",
+                    "selected": false,
+                    "price": 50, 
+                    "radio": false
+                },
+                {
+                    "id": 44,
+                    "label": "I don't have a linkedin profile, and need one - (1 day after resume completion) ",
+                    "description": "We will send you a document to insert text into your linkedin account",
+                    "selected": false,
+                    "price": 50,
+                    "radio": false 
+                }
+            ]
+        },
+        {
+            "title": "Extra addons",
+            "icon":"infinity.svg",
+            "step": 2,
+            "color": "#f0f8ff",
+            "packages": ["RRS","RCS","RPC","RCC","LPS","CLS"],       
+            "items" : [
+                {
+                    "id": 72,
+                    "label": "Thank you letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": false 
+                },
+                {
+                    "id": 73,
+                    "label": "Follow up letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10, 
+                    "radio": false
+                },
+                {
+                    "id": 74,
+                    "label": "Salary negotiation letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": false 
+                }
+            ]
+        }
+    ],
+    "product1": [
+        {
+            "title": "Resume writing",
+            "icon":"writing.svg ",
+            "step": 2,
+            "color": "",
+            "name": "group9",
+            "packages": ["RRS"],           
+            "items": [
+                {
+                    "id": 70,
+                    "label": "Resume Rewriting",
+                    "description": "I have a resume, I need my existing resume re-written",
+                    "selected": true,
+                    "price": 0,
+                    "radio": true 
+                },
+                {
+                    "id": 71,
+                    "label": "Resume Creation",
+                    "description": "I dont have a CV, I need workpapa to write one for me.",
+                    "selected": false,
+                    "price": 20, 
+                    "radio": true
+                }
+            ]
+        },
+        {
+            "title": "Writing Delivery Time",
+            "icon":"delivery-truck-with-circular-clock.svg",
+            "step": 2,
+            "color": "",
+            "name": "group8",
+            "packages": ["RRS","RCS","LPS","CLS","RPC","FRS","RTS","RDS","RCC"],           
+            "items": [
+                {
+                    "id": 67,
+                    "label": "Normal service ##RESUMEDAYS## days max",
+                    "description": "currently there are ##RESUMEDAYS## CV/Resume projects pending",
+                    "selected": true,
+                    "price": 0,
+                    "radio": true 
+                },
+                {
+                    "id": 68,
+                    "label": "Fast Service 1-2 days max",
+                    "description": "Fast Service 1-2 days max",
+                    "selected": false,
+                    "price": 25, 
+                    "radio": true
+                },
+                {
+                    "id": 69,
+                    "label": "Medium Speed Service 3-4 days max",
+                    "description": "Medium Speed Service 3-4 days max",
+                    "selected": false,
+                    "price": 12,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "Templates/Layouts/Designs <small>(Choose how many styles)</small>",
+            "icon": "web-development.svg",        
+            "name": "group6",
+            "type": "select",
+            "selected": 55,
+            "step": 2,
+            "color": "",
+            "packages": ["RRS","RCS","RDS","RPC","RCC","FRS","RDS","RCF"],
+            "items" : [
+                {
+                    "id": 55,
+                    "label": "1 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": true,
+                    "price": 0, 
+                    "radio": true
+                },
+                {
+                    "id": 56,
+                    "label": "2 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": true 
+                },
+                {
+                    "id": 57,
+                    "label": "3 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 20,
+                    "radio": true 
+                },
+                {
+                    "id": 58,
+                    "label": "4 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 30,
+                    "radio": true 
+                },
+                {
+                    "id": 59,
+                    "label": "5 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 40,
+                    "radio": true 
+                },
+                {
+                    "id": 60,
+                    "label": "6 CV/Resume Template with your CV/Resume text inserted",
+                    "description": "",
+                    "selected": false,
+                    "price": 50,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "CV/Resumes <small>(If you think you will apply to different job types its a good idea.)</small>",
+            "icon": "envelope.svg",
+            "name": "group7",
+            "type": "select",
+            "selected": 61,
+            "step": 2,
+            "color": "",
+            "packages": ["RRS","RCS","RDS","RCC","RPC","FRS","RCF"],
+            "items" : [
+                {
+                    "id": 61,
+                    "label": "1 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": true,
+                    "price": 0, 
+                    "radio": true
+                },
+                {
+                    "id": 62,
+                    "label": "2 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 20,
+                    "radio": true 
+                },
+                {
+                    "id": 63,
+                    "label": "3 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 40,
+                    "radio": true 
+                },
+                {
+                    "id": 64,
+                    "label": "4 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 60,
+                    "radio": true 
+                },
+                {
+                    "id": 65,
+                    "label": "5 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 80,
+                    "radio": true 
+                },
+                {
+                    "id": 66,
+                    "label": "6 CV/Resumes Rewritten",
+                    "description": "",
+                    "selected": false,
+                    "price": 100,
+                    "radio": true 
+                }
+            ]
+        },
+        {
+            "title": "Cover letter",
+            "icon":"certificate.svg",
+            "step": 2,
+            "color": "#f0fff0",
+            "packages": ["RRS","RCS"],           
+            "items": [
+                {
+                    "id": 25,
+                    "label": "Basic cover letter template (just a standard template)",
+                    "description": "",
+                    "selected": true,
+                    "price": 0,
+                    "radio": false 
+                },
+                {
+                    "id": 27,
+                    "label": "I have a cover letter and want it re-written (delivery time 1 days)",
+                    "description": "Useful to show employers you are serious about their position",
+                    "selected": false,
+                    "price": 30, 
+                    "radio": false
+                },
+                {
+                    "id": 29,
+                    "label": "I don't have a cover letter and need one (delivery time, 1 days)",
+                    "description": "Many jobs require a cover letter. We suggest having one",
+                    "selected": false,
+                    "price": 40,
+                    "radio": false 
+                }
+            ]
+        },
+        {
+            "title": "Linkedin",
+            "icon":"certificate.svg",
+            "step": 2,
+            "color": "#f0f8ff",
+            "packages": ["RRS","RCS","CLS"],       
+            "items" : [
+                {
+                    "id": 21,
+                    "label": "Rewrite my linkedin in profile - (1 day after resume completion)",
+                    "description": "We will rewrite your linkedin for you using your CV/Resume in linkedin format",
+                    "selected": false,
+                    "price": 25,
+                    "radio": false 
+                },
+                {
+                    "id": 23,
+                    "label": "Rewrite linkedin plus cover letter - (1 day after resume completion)",
+                    "description": "Bundled deal for these 2 services",
+                    "selected": false,
+                    "price": 50, 
+                    "radio": false
+                },
+                {
+                    "id": 44,
+                    "label": "I don't have a linkedin profile, and need one - (1 day after resume completion) ",
+                    "description": "We will send you a document to insert text into your linkedin account",
+                    "selected": false,
+                    "price": 50,
+                    "radio": false 
+                }
+            ]
+        },
+        {
+            "title": "Extra addons",
+            "icon":"infinity.svg",
+            "step": 2,
+            "color": "#f0f8ff",
+            "packages": ["RRS","RCS","RPC","RCC","LPS","CLS"],       
+            "items" : [
+                {
+                    "id": 72,
+                    "label": "Thank you letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": false 
+                },
+                {
+                    "id": 73,
+                    "label": "Follow up letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10, 
+                    "radio": false
+                },
+                {
+                    "id": 74,
+                    "label": "Salary negotiation letter",
+                    "description": "",
+                    "selected": false,
+                    "price": 10,
+                    "radio": false 
+                }
+            ]
+        }
+    ]
+}

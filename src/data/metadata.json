@@ -1,0 +1,52 @@
+{
+    "citypage": {
+        "ca": {
+            "toronto": {
+                "title": "Workpapa | Professional resume writing in toronto",
+                "description": "Workpapa | Professional resume writing in toronto",
+                "keywords":"Resume Writing toronto, resume writing services toronto, resume writers toronto, resume writing services in toronto, resume writers in toronto, professional resume writer in toronto, resume writing toronto, resume writers toronto, cv writers toronto, professional resume writing in toronto"
+            }
+        },
+        "ae": {
+            "dubai": {
+                "title": "Workpapa | Professional cv writing in dubai",
+                "description": "Workpapa | Professional cv writing in dubai",
+                "keywords":"cv writers dubai, resume writing services dubai, cv writing services in dubai, cv writers in dubai, professional cv maker in dubai, cv writing services, cv writers dubai, professional cv writing in dubai, cv making in dubai, creative resume writing services, professional cv and linkedin, profile writer in dubai"
+            },
+            "abu-dhabi": {
+                "title": "Workpapa | Professional resume writing in abu dhabi",
+                "description": "Workpapa | Professional resume writing in abu dhabi",
+                "keywords":"cv writers abu dhabi, resume writing services abu dhabi, cv writing services in abu dhabi, cv writers in abu dhabi, professional cv maker in abu dhabi, cv writing services abu dhabi, cv writers abu dhabi, cv writing services uae, professional cv writing in abu dhabi, cv making in abu dhabi, resume builder online"
+            }
+        },
+        "sg": {
+            "singapore": {
+                "title": "Workpapa | Professional resume writing in singapore",
+                "description": "Workpapa | Professional resume writing in singapore",
+                "keywords":"resume writing singapore, resume writing services singapore, resume writers singapore, resume writing services in singapore, resume writers in singapore, professional resume writer in singapore, resume writing singapore, resume writers singapore, professional resume writing in singapore"
+            }
+        }
+    },
+    "homepage": {
+        "ca": {
+            "title": "Workpapa | 24 hour fast service | Professional resume writing in canada",
+            "description": "Enjoy workpapa.com. Get your 1st draft of your CV or resume within 1 day of sign up. We are the fastest writing service out there. Workpapa | Professional resume writing | cv writing.",
+            "keywords":"Resume Writing toronto, resume writing services toronto, resume writers toronto, resume writing services in toronto, resume writers in toronto, professional resume writer in toronto, resume writing toronto, resume writers toronto, cv writers toronto, professional resume writing in toronto"
+        },
+        "ae": {
+            "title": "Workpapa | 24 hour fast service | Professional cv writing in uae",
+            "description": "Enjoy workpapa.com. Get your 1st draft of your CV or resume within 1 day of sign up. We are the fastest writing service out there. Workpapa | Professional resume writing | cv writing.",
+            "keywords":"cv writers dubai, resume writing services dubai, cv writing services in dubai, cv writers in dubai, professional cv maker in dubai, cv writing services, cv writers dubai, professional cv writing in dubai, cv making in dubai, creative resume writing services, professional cv and linkedin, profile writer in dubai"
+        },
+        "sg": {
+            "title": "Workpapa | 24 hour fast service | Professional resume writing in singapore",
+            "description": "Enjoy workpapa.com. Get your 1st draft of your CV or resume within 1 day of sign up. We are the fastest writing service out there. Workpapa | Professional resume writing | cv writing.",
+            "keywords":"resume writing singapore, resume writing services singapore, resume writers singapore, resume writing services in singapore, resume writers in singapore, professional resume writer in singapore, resume writing singapore, resume writers singapore, professional resume writing in singapore"
+        },
+        "us": {
+            "title": "Workpapa | 24 hour fast service | Professional resume writing | cv writing",
+            "description": "Enjoy workpapa.com. Get your 1st draft of your CV or resume within 1 day of sign up. We are the fastest writing service out there. Workpapa | Professional resume writing | cv writing.",
+            "keywords":""
+        }
+    }
+}

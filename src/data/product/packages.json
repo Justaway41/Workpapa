@@ -1,0 +1,442 @@
+{
+    "packages": {
+        "product1": {
+            "ADVRT": {
+                "code": "ADVRT",
+                "name": "Advertising Copywriting",
+                "description": "Includes rewriting you advertisement",
+                "price": "30"
+            },
+            "PPCCOPY": {
+                "code": "PPCCOPY",
+                "name": "Custom PPC Copywriting",
+                "description": "Includes rewriting a set of advertisements for you",
+                "price": "25"
+            }
+        },
+        "product2": {
+            "FINAN": {
+                "code": "FINAN",
+                "name": "Financial Writing",
+                "description": "Includes content written tailored  for the finance industry",
+                "price": "50"
+            },
+            "ARW": {
+                "code": "ARW",
+                "name": "Annual Report Writing",
+                "description": "Includes creating your companies annual report writing",
+                "price": "20"
+            }
+        },
+        "product3": {
+            "AWS": {
+                "code": "AWS",
+                "name": "Article Rewriting",
+                "description": "Includes rewriting your with a brand new template",
+                "price": "25"
+            },
+            "BWS": {
+                "code": "BWS",
+                "name": "Blog Writing",
+                "description": "Includes writing a blog article for you, per page price",
+                "price": "25"
+            },
+            "BKW": {
+                "code": "BKW",
+                "name": "Book Writing",
+                "description": "Includes writing a book in text for you, per page price.",
+                "price": "25"
+            }
+        },
+        "product4": {
+            "BUS": {
+                "code": "BUS",
+                "name": "Business Letter Writing",
+                "description": "Includes writing a custom letter for you for business",
+                "price": "25"
+            },
+            "BPW": {
+                "code": "BPW",
+                "name": "Business Plan Writing",
+                "description": "Includes writing a business plan for your venture",
+                "price": "300"
+            },
+            "BWA": {
+                "code": "BWA",
+                "name": "Business Writing",
+                "description": "Includes writing a content article for your business",
+                "price": "30"
+            },
+            "BP": {
+                "code": "BP",
+                "name": "Business Presentation",
+                "description": "Includes writing a presentation for your business, per page",
+                "price": "25"
+            },
+            "BPR": {
+                "code": "BPR",
+                "name": "Business Proposal Writing",
+                "description": "Includes writing a proposal for your business, per page",
+                "price": "30"
+            },
+            "BRW": {
+                "code": "BRW",
+                "name": "Business Review Writing",
+                "description": "Includes writing a review for your business, per review",
+                "price": "20"
+            }
+        },
+        "product5": {
+            "LDG": {
+                "code": "LDG",
+                "name": "Lead Generation Writing",
+                "description": "Includes rewriting your lead generation page",
+                "price": "50"
+            },
+            "PRW": {
+                "code": "PRW",
+                "name": "Press Release Writing",
+                "description": "Includes writing pages for your next press release",
+                "price": "25"
+            },
+            "PDW": {
+                "code": "PDW",
+                "name": "Product Description Writing",
+                "description": "Includes writing a description for your product online",
+                "price": "35"
+            },
+            "PROM": {
+                "code": "PROM",
+                "name": "Promo Writing",
+                "description": "Includes writing a promotional offer for your business",
+                "price": "25"
+            },
+            "INFO": {
+                "code": "INFO",
+                "name": "Infographic Writing",
+                "description": "Includes creating an infographic with the information you may provide",
+                "price": "50"
+            }
+        },
+        "product6": {
+            "DATE": {
+                "code": "DATE",
+                "name": " Text Message Response Advice",
+                "description": "Includes giving your appropriate responses to your texts, $6/month",
+                "img": "",
+                "price": "6"
+            },
+            "EBPC": {
+                "code": "EBPC",
+                "name": "Essay Based Profile Creation",
+                "description": "Includes rewriting your with a brand new template",
+                "img": "",
+                "price": "85"
+            },
+            "PPCR": {
+                "code": "PPCR",
+                "name": "Premium Profile Creation",
+                "description": "Includes creating your dating profile on a dating site",
+                "img": "",
+                "price": "75"
+            },
+            "ODPM": {
+                "code": "ODPM",
+                "name": "Online dating profile makeover",
+                "description": "Includes redoing your online dating profile",
+                "img": "",
+                "price": "75"
+            },
+            "PODC": {
+                "code": "PODC",
+                "name": "Personal Online Dating Coach",
+                "description": "Includes speaking 1 hour to an online dating coach",
+                "img": "",
+                "price": "75"
+            },
+            "PPODC": {
+                "code": "PPODC",
+                "name": "Premium Personal Online Dating Coach",
+                "description": "A New Profile, A New Outlook, The Partner You've Been Looking For",
+                "img": "",
+                "price": "75"
+            },
+            "WDIF": {
+                "code": "WDIF",
+                "name": "Soulmate block?",
+                "description": "We will get to know you and tell you why you have not met your soulmate yet.",
+                "img": "",
+                "price": "95"
+            }
+        },
+        "product7": {
+            "REW": {
+                "code": "REW",
+                "name": " Real Estate Writing",
+                "description": "Real Estate writing ",
+                "img": "",
+                "price": "40"
+            },
+            "MEDW": {
+                "code": "MEDW",
+                "name": "Medical Writing",
+                "description": "Includes a post about something medical related",
+                "img": "",
+                "price": "40"
+            },
+            "TMW": {
+                "code": "TMW",
+                "name": "Trade Magazine Writing",
+                "description": "Includes an article to be included in a trade magazine",
+                "img": "",
+                "price": "75"
+            },
+            "TRVL": {
+                "code": "TRVL",
+                "name": "Travel content writing",
+                "description": "Includes writing a travel content article",
+                "img": "",
+                "price": "50"
+            },
+            "INFL": {
+                "code": "INFL",
+                "name": "InFlight Magazine Writing",
+                "description": "Includes writing an article for an inflight magazine",
+                "img": "",
+                "price": "50"
+            },
+            "INST": {
+                "code": "INST",
+                "name": "Instructional Design Writing",
+                "description": "An article written about instructional deisng",
+                "img": "",
+                "price": "65"
+            },
+            "FCM": {
+                "code": "FCM",
+                "name": "Financial Content Marketing",
+                "description": "Content marketing in the form of an article written with financial fluency.",
+                "img": "",
+                "price": "80"
+            }
+        },
+        "product8": {
+            "CAW": {
+                "code": "CAW",
+                "name": "College Application Writing",
+                "description": "A full application for your chosen college or university to be applied to",
+                "img": "",
+                "price": "75"
+            },
+            "CURR": {
+                "code": "CURR",
+                "name": "Curriculum Creator",
+                "description": "Includes creating a curriculum for a class",
+                "img": "",
+                "price": "200"
+            },
+            "TAW": {
+                "code": "TAW",
+                "name": "Tuition Assistance Writing",
+                "description": "We will complete your application for tuition assistance",
+                "img": "",
+                "price": "100"
+            },
+            "UAW": {
+                "code": "UAW",
+                "name": "University Application Writing",
+                "description": "Includes a filled application to a 4 year university",
+                "img": "",
+                "price": "110"
+            },
+            "ESSY": {
+                "code": "ESSY",
+                "name": "Essay Writing",
+                "description": "Includes writing an essay for 1 page",
+                "img": "",
+                "price": "35"
+            }
+        },
+        "product9": {
+            "EBK": {
+                "code": "EBK",
+                "name": "E-book Writing",
+                "description": "Writing any subject you would like to talk about ebook (price per page)",
+                "img": "",
+                "price": "35"
+            },
+            "AUTO": {
+                "code": "AUTO",
+                "name": "Autobiography Writing",
+                "description": "Includes a book about your life (price per page)",
+                "img": "",
+                "price": "25"
+            },
+            "SPCH": {
+                "code": "SPCH",
+                "name": "Speech Writing",
+                "description": "We will write your speech(per 300 words)",
+                "img": "",
+                "price": "75"
+            },
+            "HTG": {
+                "code": "HTG",
+                "name": "How to Guides",
+                "description": "Includes 1 page price of a how to guide on your subject/product.",
+                "img": "",
+                "price": "45"
+            },
+            "GBWR": {
+                "code": "GBWR",
+                "name": "Guidebook Writing",
+                "description": "Includes 1 page about guidebook on your topic",
+                "img": "",
+                "price": "45"
+            }
+        },
+        "product10": {
+            "JPW": {
+                "code": "JPW",
+                "name": "Job Posting writing",
+                "description": "Includes writing your job posting for a job website",
+                "img": "",
+                "price": "35"
+            },
+            "APPR": {
+                "code": "APPR",
+                "name": "Appraisal Writing",
+                "description": "Includes writing your self appraisal for work",
+                "img": "",
+                "price": "50"
+            },
+            "SELF": {
+                "code": "SELF",
+                "name": "Speech Writing",
+                "description": "We will write your speech(per 300 words)",
+                "img": "",
+                "price": "75"
+            }
+        },
+        "product11": {
+            "FUND": {
+                "code": "FUND",
+                "name": "Grant application writing",
+                "description": "Writing a grant proposal",
+                "img": "",
+                "price": "40"
+            }
+        },
+        "product12": {
+            "LGL": {
+                "code": "LGL",
+                "name": "Legal writing",
+                "description": "Writing a 1 page legal document",
+                "price": "35"
+            },
+            "LONG": {
+                "code": "LONG",
+                "name": "Long Form Article Writing",
+                "description": "We will write your long form article",
+                "price": "100"
+            },
+            "MANU": {
+                "code": "MANU",
+                "name": "Manual Writing",
+                "description": "We will write your manual.",
+                "price": "100"
+            },
+            "NEWS": {
+                "code": "NEWS",
+                "name": "Newsletter Writing",
+                "description": "We will write your newsletter.",
+                "price": "40"
+            },
+            "OBIT": {
+                "code": "OBIT",
+                "name": "Obituary Writing",
+                "description": "We will write an obituary for you.",
+                "price": "65"
+            },
+            "PROP": {
+                "code": "PROP",
+                "name": "Proposal Writing",
+                "description": "Includes writing a 1 page proposal for you (per page).",
+                "price": "50"
+            },
+            "RESE": {
+                "code": "RESE",
+                "name": "Research Writing",
+                "description": "Includes writing a 1 page research writing.",
+                "price": "50"
+            },
+            "SCRP": {
+                "code": "SCRP",
+                "name": "Script Writing",
+                "description": "Includes writing a script for your movie or film or scene (per page).",
+                "price": "50"
+            },
+            "EVAL": {
+                "code": "EVAL",
+                "name": "Self Evaluation Writing",
+                "description": "Includes writing a self evaluation for your workplace.",
+                "price": "75"
+            }
+        },
+        "product13": {
+            "SEOA": {
+                "code": "SEOA",
+                "name": "Seo Article Writing",
+                "description": "Writing a 1 page SEO Article",
+                "price": "35"
+            },
+            "PRW": {
+                "code": "PRW",
+                "name": "Press Release Writing",
+                "description": "Wrting a 1 page Press release article",
+                "price": "100"
+            },
+            "MANU": {
+                "code": "MANU",
+                "name": "Manual Writing",
+                "description": "We will write your manual.",
+                "price": "100"
+            },
+            "NEWS": {
+                "code": "NEWS",
+                "name": "Newsletter Writing",
+                "description": "We will write your newsletter.",
+                "price": "40"
+            },
+            "OBIT": {
+                "code": "OBIT",
+                "name": "Obituary Writing",
+                "description": "We will write an obituary for you.",
+                "price": "65"
+            },
+            "PROP": {
+                "code": "PROP",
+                "name": "Proposal Writing",
+                "description": "Includes writing a 1 page proposal for you (per page).",
+                "price": "50"
+            },
+            "RESE": {
+                "code": "RESE",
+                "name": "Research Writing",
+                "description": "Includes writing a 1 page research writing.",
+                "price": "50"
+            },
+            "SCRP": {
+                "code": "SCRP",
+                "name": "Script Writing",
+                "description": "Includes writing a script for your movie or film or scene (per page).",
+                "price": "50"
+            },
+            "EVAL": {
+                "code": "EVAL",
+                "name": "Self Evaluation Writing",
+                "description": "Includes writing a self evaluation for your workplace.",
+                "price": "75"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "id1",
+        "label": "Hiring company name",
+        "key": "###hiring-company###",
+        "required": true,
+        "answer": ""
+    },
+    {
+        "id": "id2",
+        "label": "Job title you applied for",
+        "key": "###job-title###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id3",
+        "label": "Hiring manager's name",
+        "key": "###hiring-manager-name###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id4",
+        "label": "Offered salary",
+        "key": "###offered-salary###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id5",
+        "label": "Position you applied for",
+        "key": "###position###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id6",
+        "label": "Industry you applied for",
+        "key": "###industry-name###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id7",
+        "label": "Lower salary of range for applied industry",
+        "key": "###lower-salary-range###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id8",
+        "label": "Higher salary of range for applied industry",
+        "key": "###higher-salary-range###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id9",
+        "label": "Your Desired salary",
+        "key": "###desired-salary###",
+        "required": true,        
+        "answer": ""
+    },
+    {
+        "id": "id10",
+        "label": "Your Name",
+        "key": "###your-name###",
+        "required": true,        
+        "answer": ""
+    }
+]

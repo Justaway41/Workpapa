@@ -1,0 +1,358 @@
+{
+    "pricecomp": {
+        "in": [ 
+            {"site": "resumewritinggroup.com", "price": "89"},
+            {"site": "insiderecruiter.com", "price": "100"},
+            {"site": "resumes2000.com", "price": "105"},          
+            {"site": "topresume.com", "price": "149"},          
+            {"site": "resumeprofessionalwriters.com", "price": "150"},          
+            {"site": "market-connections.net", "price": "165"}          
+        ],
+        "sa": [ 
+            {"site": "dubai-forever.com", "price": "39"},
+            {"site": "wefindjobs.ae", "price": "45"},
+            {"site": "resumewriter.ae", "price": "62"},
+            {"site": "writingexpertz.com", "price": "45"},
+            {"site": "bayt.com", "price": "45"},
+            {"site": "resume.ae", "price": "45"},
+            {"site": "writing4u.ae", "price": "45"}            
+        ],
+        "ae": [ 
+            {"site": "dubai-forever.com", "price": "39"},
+            {"site": "wefindjobs.ae", "price": "45"},
+            {"site": "resumewriter.ae", "price": "62"},
+            {"site": "writingexpertz.com", "price": "45"},
+            {"site": "bayt.com", "price": "45"},
+            {"site": "resume.ae", "price": "45"},
+            {"site": "writing4u.ae", "price": "45"}            
+        ],
+        "sg": [ 
+            {"site": "cvshapers.com", "price": "68.5"},
+            {"site": "resumeyard.com", "price": "137"},
+            {"site": "craftresumes.com", "price": "159"},
+            {"site": "resumerwriter.sg", "price": "249"},
+            {"site": "excellenceresumes.com", "price": "259"}     
+        ],
+        "ca": [ 
+            {"site": "resumetoronto.ca", "price": "149"},
+            {"site": "resumeworld.ca", "price": "295"},
+            {"site": "expertresumewriter.ca", "price": "395"}     
+        ],
+        "us": [ 
+            {"site": "topresume.com", "price": "149"},          
+            {"site": "resumeprofessionalwriters.com", "price": "150"},          
+            {"site": "market-connections.net", "price": "165"}          
+        ]
+    },
+    "clients": {
+        "in": [
+            {
+                "clientname": "Abigail Lewis",
+                "clientimg": "home-Abigail-Lewis.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"
+            },
+            {
+                "clientname": "Sandra Rae",
+                "clientimg": "home-Sandra-Rae.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Michael Jones",
+                "clientimg": "home-Michael-Jones.jpg",
+                "clientdesc": "Amazing, I would recommend to anyone.<br />Work papa was efficient, friendly, highly helpful and very knowledgeable.<br /> I am very satisfied with the output and recommend workpapa to anyone looking for a professional resume writing service.<br />Excellent attention and highly recommended",
+                "clientcomp": "Marketing Analyst",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ],
+        "ae": [
+            {
+                "clientname": "Nadya Jabir",
+                "clientimg": "home-nadya.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"                
+            },
+            {
+                "clientname": "Mohammed Asad",
+                "clientimg": "home-mohammed.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Ahmad Nassif",
+                "clientimg": "home-ahmad.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ],
+        "sa": [
+            {
+                "clientname": "Nadya Jabir",
+                "clientimg": "home-nadya.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"
+            },
+            {
+                "clientname": "Mohammed Asad",
+                "clientimg": "home-mohammed.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Ahmad Nassif",
+                "clientimg": "home-ahmad.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Marketing Analyst",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ],
+        "sg": [
+            {
+                "clientname": "Nicholas Heng",
+                "clientimg": "home_Nicholas_Heng.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"
+            },
+            {
+                "clientname": "Ryan Ching",
+                "clientimg": "home_Ryan_Ching.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Michelle Lim",
+                "clientimg": "home_Michelle_Lim.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Marketing Analyst",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ],
+        "ca": [
+            {
+                "clientname": "Abigail Lewis",
+                "clientimg": "home-Abigail-Lewis.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"
+            },
+            {
+                "clientname": "Sandra Rae",
+                "clientimg": "home-Sandra-Rae.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Michael Jones",
+                "clientimg": "home-Michael-Jones.jpg",
+                "clientdesc": "Amazing, I would recommend to anyone.<br />Work papa was efficient, friendly, highly helpful and very knowledgeable.<br /> I am very satisfied with the output and recommend workpapa to anyone looking for a professional {this.state.resumeText} writing service.<br />Excellent attention and highly recommended",
+                "clientcomp": "Marketing Analyst",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ],
+        "us": [
+            {
+                "clientname": "Abigail Lewis",
+                "clientimg": "home-Abigail-Lewis.jpg",
+                "clientdesc": "I am very happy with my CV, I could not have written it better myself. Delighted with the excellent service from Workpapa. Both my CV and cover letter were brilliantly revamped! Great value for money and also very quick turnaround with the express service if you are in a rush. Service was excellent and on time.",
+                "clientcomp": "Logistics Manager",
+                "clientcomplogo": "DHL-logo.png"
+            },
+            {
+                "clientname": "Sandra Rae",
+                "clientimg": "home-Sandra-Rae.jpg",
+                "clientdesc": "Absolutely exceptional service received from signup to delivery and follow up. Gratified with the quality of the service. <br />The job I got offered is a perfect match for my skills and qualifications which your services so professionally and eloquently made visible.",
+                "clientcomp": "Supervisor",
+                "clientcomplogo": "Hiltonlogo.png"
+            },
+            {
+                "clientname": "Michael Jones",
+                "clientimg": "home-Michael-Jones.jpg",
+                "clientdesc": "Amazing, I would recommend to anyone.<br />Work papa was efficient, friendly, highly helpful and very knowledgeable.<br /> I am very satisfied with the output and recommend workpapa to anyone looking for a professional {this.state.resumeText} writing service.<br />Excellent attention and highly recommended",
+                "clientcomp": "Marketing Analyst",
+                "clientcomplogo": "Logo_MARS.png"
+            }
+        ]
+    },
+    "writers": {
+        "in": [
+            {
+                "name": "Jonathan Hedvat",
+                "img": "jonathan-home.jpg" ,
+                "about": "Resume writer, Copywriter, Entrepreneur"  
+            },
+            {
+                "name": "Anuradha Singh",
+                "img": "anuradha-singh.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Sarah Hedvat",
+                "img": "sara-hedvat.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ],
+        "sg": [
+            {
+                "name": "Jonathan Hedvat",
+                "img": "jonathan-home.jpg",
+                "about": "Resume writer, Copywriter, Entrepreneur"    
+            },
+            {
+                "name": "Anuradha Singh",
+                "img": "anuradha-singh.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Sarah Hedvat",
+                "img": "sara-hedvat.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ],
+        "ae": [
+            {
+                "name": "Ali AlGhanem",
+                "img": "ali-alGhanem.jpg",
+                "about": "Resume writer, Copywriter, Entrepreneur"    
+            },
+            {
+                "name": "Fahad Bin Bayat",
+                "img": "fahad-bin-bayat.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Mohammed Al Gandi",
+                "img": "mohammed-al-gandi.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ],
+        "sa": [
+            {
+                "name": "Ali AlGhanem",
+                "img": "ali-alGhanem.jpg",
+                "about": "Resume writer, Copywriter, Entrepreneur"  
+            },
+            {
+                "name": "Fahad Bin Bayat",
+                "img": "fahad-bin-bayat.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Mohammed Al Gandi",
+                "img": "mohammed-al-gandi.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ],
+        "ca": [
+            {
+                "name": "Jonathan Hedvat",
+                "img": "jonathan-home.jpg",
+                "about": "Resume writer, Copywriter, Entrepreneur"  
+            },
+            {
+                "name": "Anuradha Singh",
+                "img": "anuradha-singh.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Sarah Hedvat",
+                "img": "sara-hedvat.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ],
+        "us": [
+            {
+                "name": "Jonathan Hedvat",
+                "img": "jonathan-home.jpg",
+                "about": "Resume writer, Copywriter, Entrepreneur"
+            },
+            {
+                "name": "Anuradha Singh",
+                "img": "anuradha-singh.jpg",
+                "about": "Resume & CV Writer, HR Manager, HR Administrator"
+            },
+            {
+                "name": "Sarah Hedvat",
+                "img": "sara-hedvat.jpg",
+                "about": "Marketing Executive, Persuasive Writer, Social Media Strategist"
+            },
+            {
+                "name": "Waqar Bari",
+                "img": "waqar-bari.jpg",
+                "about": "Professional Resume Writer, Legal Consultant, Quality Assurance & Compliance Manager"
+            }
+        ]
+    },
+    "productLinks": [
+        {
+            "name": "Resume write & services",
+            "link": "/payment/servicemenu/RRS/ECR",
+            "external": false
+        },
+        {
+            "name": "Resume read notification",
+            "link": "https://www.workpapa.com/ng/landing/read-notification",
+            "external": true
+        },
+        {
+            "name": "Office by the day",
+            "link": "#",
+            "external": false
+        },
+        {
+            "name": "Resume Builder",
+            "link": "/build-resume/choose-template",
+            "external": false
+        },
+        {
+            "name": "Salary negotiation builder",
+            "link": "/build-template/create",
+            "external": false
+        },
+        {
+            "name": "Resume templates",
+            "link": "/payment/servicemenu/RTS/FGR",
+            "external": false
+        },
+        {
+            "name": "Text library",
+            "link": "/textlibrary",
+            "external": false
+        }
+    ]
+}

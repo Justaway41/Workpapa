@@ -1,0 +1,20 @@
+{
+    "product": [
+        {
+            "icon": "select.svg",
+            "description": "Select your product and complete order online"
+        },
+        {
+            "icon": "survey.svg",
+            "description": "Complete Questionairre & Upload your Current Documents"
+        },
+        {
+            "icon": "meeting.svg",
+            "description": "Login Site & Discuss with writer any concerns via our status portal online"
+        },
+        {
+            "icon": "receive.svg",
+            "description": "Receive your professionally written document"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "id1",
+        "text": "Save 15% on your order + Free Resume/CV Review",
+        "btntext": "Save 15%"
+    },
+    {
+        "id": "id2",
+        "text": "Free CV/Resume Review + 15% savings on your order",
+        "btntext": "Get Savings & Review"
+    },
+    {
+        "id": "id3",
+        "text": "Take 15% off your order + Free resume/cv review",
+        "btntext": "Receive 15% off + Resume Review"
+    },
+    {
+        "id": "id4",
+        "text": "Save 20% on your order + Free Professional Resume Review + Ebook",
+        "btntext": "25% savings + review & ebook"
+    },
+    {
+        "id": "id5",
+        "text": "30% off your order + Free Resume/CV Review + Free Resume writing e-book",
+        "btntext": "30% off + free review"
+    },
+    {
+        "id": "id6",
+        "text": "30% savings on your order + Free confidential Resume/CV Review + ebook",
+        "btntext": "30% savings + free review & ebook"
+    },
+    {
+        "id": "id7",
+        "text": "Get 40% off your order + Free confidential Resume Review + Ebook",
+        "btntext": "Get 40% off + review and ebook"
+    },
+    {
+        "id": "id8",
+        "text": "Do you want 30% off your entire order? ",
+        "btntext": "Receive 30% off entire order"
+    },
+    {
+        "id": "id9",
+        "text": "40% off your purchase + Free Resume/CV Review",
+        "btntext": "Get 40% off + Free resume review"
+    }
+]

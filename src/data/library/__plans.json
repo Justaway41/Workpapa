@@ -1,0 +1,30 @@
+[
+    {
+        "id": "id2",
+        "label": "Monthly price after free month",
+        "basic": "500",
+        "standard": "600",
+        "premium": "800"
+    },
+    {
+        "id": "id3",
+        "label": "HD available",
+        "basic": "x",
+        "standard": "x",
+        "premium": "x"
+    },
+    {
+        "id": "id4",
+        "label": "Ultra HD available",
+        "basic": "x",
+        "standard": "x",
+        "premium": "x"
+    },
+    {
+        "id": "id5",
+        "label": "Screens you can watch on at the same time",
+        "basic": "x",
+        "standard": "x",
+        "premium": "x"
+    }
+]

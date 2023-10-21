@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Section1",
+        "items" : [
+            {
+                "id": "id1",
+                "label": "Dear ###hiring-manager-name###",
+                "radio": true,
+                "selected": true
+            },
+            {
+                "id": "id2",
+                "label": "Hello ###hiring-manager-name###",
+                "radio": true,
+                "selected": false
+            },
+            {
+                "id": "id3",
+                "label": "Hi ###hiring-manager-name###",
+                "radio": true,
+                "selected": false
+            }
+        ]
+    },
+    {
+        "title": "Section2",
+        "items" : [
+            {
+                "id": "id4",
+                "label": "<p class='small'>I want to thank you for your job offer of ###job-title### from ###hiring-company### Company. The position and areas of responsibility are an excellent fit with both my skills set and my career goals. Your company's exciting growth plans would provide me with the opportunity to make a significant contribution in a challenging environment.</p> <p class='small'>Before providing you with a formal acceptance I would like to discuss the base salary you have offered. The ###job-title### position demands a high level of commitment that I am fully prepared to give. However, based on the value I can bring to the company coupled with salary data for this type of position, I must request that you relook at your starting offer of ###offered-salary###.</p> <p class='small'>The annual salary range for a ###position### in the ###industry-name### falls between ###lower-salary-range### and ###higher-salary-range### and I believe an offer of ###desired-salary### would be more consistent with my qualifications, experience and the industry norms</p>",
+                "radio": true,
+                "selected": true
+            },
+            {
+                "id": "id5",
+                "label": "Before providing you with a formal acceptance I would like to discuss the base salary you have offered. The ###job-title### position demands a high level of commitment that I am fully prepared to give. However, based on the value I can bring to the company coupled with salary data for this type of position, I must request that you relook at your starting offer of ###offered-salary###.",
+                "radio": true,
+                "selected": false
+            },
+            {
+                "id": "id6",
+                "label": "The annual salary range for a ###position### in the ###industry-name### falls between ###lower-salary-range### and ###higher-salary-range### and I believe an offer of ###desired-salary### would be more consistent with my qualifications, experience and the industry norms",
+                "radio": true,
+                "selected": false
+            }
+        ]
+    },
+    {
+        "title": "Section3",
+        "items" : [
+            {
+                "id": "id7",
+                "label": "Sincerely<br>###your-name###",
+                "radio": true,
+                "selected": true
+            },
+            {
+                "id": "id8",
+                "label": "Regards<br>###your-name###",
+                "radio": true,
+                "selected": false
+            },
+            {
+                "id": "id9",
+                "label": "Thanks<br>###your-name###",
+                "radio": true,
+                "selected": false
+            }
+        ]
+    }
+]
